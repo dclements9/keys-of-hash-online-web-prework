@@ -10,7 +10,6 @@ class Hash
           end
         end
       end
-    binding.pry
       returned_array
     end
   end
