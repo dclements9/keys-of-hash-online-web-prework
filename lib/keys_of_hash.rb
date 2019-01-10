@@ -9,5 +9,5 @@ class Hash
         end
         return returned_array
   end
-  
+
 end
