@@ -2,7 +2,7 @@ class Hash
     def keys_of(*arguments)
     returned_array = []
       arguments.each do |element|
-        each do |key, value|
+        hash do |key, value|
           if element == value
             returned_array << key
           end
